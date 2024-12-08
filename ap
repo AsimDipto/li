@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SET" tvg-name="SET" tvg-logo="" group-title="Airtel | Entertainment", SET
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SET" tvg-name="SET" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp" group-title="Airtel | Entertainment", SET
+" group-title="Airtel | Entertainment", SET
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CURSyaod8vjdUH1iNThVdQ", "kid":"34e4yFj_PoCKxY5UMCwEsw" }], "type":"temporary" }
