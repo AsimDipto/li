@@ -1,8 +1,13 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_SET" tvg-name="SET" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bdf/images/378221101.webp" group-title="Airtel | Entertainment", SET
-" group-title="Airtel | Entertainment", SET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CURSyaod8vjdUH1iNThVdQ", "kid":"34e4yFj_PoCKxY5UMCwEsw" }], "type":"temporary" }
-https://companion-live-play1.streamready.in/live/media1/set/ndashd/set.mpd
+[
+  {
+    "name": "Zee Marathi",
+    "link": "https://zee5.drmlive.in/cmaf/live/2105543/ZeeMarathiELE/master.m3u8",
+    "logo": "",
+    "origin": "https://drmlive.in",
+    "referrer": "",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
